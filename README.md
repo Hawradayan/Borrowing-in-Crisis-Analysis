@@ -6,7 +6,7 @@
 ## **Overview**
 
 This project analyzes six years of Home Mortgage Disclosure Act (HMDA) data from Florida (2018–2023) to understand how borrower behavior and lending activity changed before, during, and after the COVID-19 shock.
-The goal is to identify shifts in loan demand, approval patterns, refinancing trends, and borrower risk levels. 
+this analysis identifies how lending patterns and borrower dynamics changed in response to the COVID-19 pandemic,helping financial institutions and policymakers develop more resilient lending strategies for future crises
 
 ---
 
