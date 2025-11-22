@@ -70,7 +70,7 @@ These segments help compare borrower and lender behavior across economic phases.
 
 ---
 
-## ** Findings Summary**
+## **Findings Summary**
 
 * Interest rates decreased sharply in the shock period
 * Despite low rates, **loan activity still dropped in 2021**
